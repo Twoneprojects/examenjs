@@ -1,0 +1,1 @@
+let getal = prompt("geef een getal in:");
